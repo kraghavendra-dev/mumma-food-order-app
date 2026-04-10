@@ -1,21 +1,58 @@
-<<<<<<< HEAD
-# React + Vite
+# Mumma Food Order App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive food ordering web application where users can browse food items, add them to cart, and manage orders. Built using React and Vite with a clean and responsive UI.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://kraghavendra-dev.github.io/mumma-food-order-app/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* Browse food items
+* Add to cart
+* Remove from cart
+* Cart total calculation
+* Responsive design
+* Clean UI layout
+* Reusable React components
+* Navbar and Footer
+* Routing using React Router
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# food-order-app
-A React-based application for ordering food online.
->>>>>>> 438c8f2b7fb36ef8c6c553f6120eaf8ee7fd4135
+* React JS
+* JavaScript (ES6+)
+* CSS3
+* Vite
+* ReactRouter DOM
+* Context API
+* Git and GitHub
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/kraghavendra-dev/mumma-food-order-app.git
+
+Go to project folder
+
+cd mumma-food-order-app
+
+Install dependencies
+
+npm install
+
+Run project
+
+npm run dev
+
+## Deployment
+
+This project is deployed using GitHub Pages.
+
+npm run deploy
+
+## Author
+Raghavendra karingu | Frontend developer (React) |
+GitHub: https://github.com/kraghavendra-dev
+

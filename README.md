@@ -1,6 +1,7 @@
 # Mumma Food Order App
 
-A responsive food ordering web application where users can browse food items, add them to cart, and manage orders. Built using React and Vite with a clean and responsive UI.
+A fully responsive Food Ordering Application built with React.js that allows users to browse food items, add or remove products from the cart, and view real-time pricing calculations. Implemented Context API for efficient global state management to handle cart data across components without prop drilling. The project focuses on reusable component architecture, dynamic rendering, and smooth user interaction for a better ordering experience. Developed responsive UI layouts, cart quantity management, and total price calculations to simulate real-world e-commerce functionality while strengthening skills in React Hooks, state management, component reusability, and frontend application development.
+
 
 ## Live Demo
 
